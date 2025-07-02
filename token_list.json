@@ -1,15 +1,13 @@
 {
   "name": "ScaiArmy Token List",
-  "timestamp": "2025-07-02T10:13:52.000Z",
+  "timestamp": "2025-07-02T05:41:38.570Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
-  "tags": {
-    
-  },
-  "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/assets/scaiarmy-logo.png",
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/MANISHK121/scai-armytokenlist/main/assets/scaiarmy-logo.png",
   "keywords": [
     "scaiarmy",
     "tokenlist",
@@ -18,20 +16,11 @@
   "tokens": [
     {
       "chainId": 34,
-      "address": "0xYourTokenAddress1",
-      "name": "Scai Token",
-      "symbol": "SCAI",
+      "address": "0x3333333333333333333333333333333333333333",
+      "name": "Recovery Test Token",
+      "symbol": "REC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/assets/0xYourTokenAddress1.png"
-    },
-    {
-      "chainId": 34,
-      "address": "0xYourTokenAddress2",
-      "name": "Test Token",
-      "symbol": "TST",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/assets/0xYourTokenAddress2.png"
+      "logoURI": "https://raw.githubusercontent.com/MANISHK121/scai-armytokenlist/main/assets/0x3333333333333333333333333333333333333333.png"
     }
-    // Add more tokens here as needed
   ]
 }
