@@ -1,0 +1,37 @@
+{
+  "name": "ScaiArmy Token List",
+  "timestamp": "2025-07-02T10:13:52.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    
+  },
+  "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/assets/scaiarmy-logo.png",
+  "keywords": [
+    "scaiarmy",
+    "tokenlist",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 34,
+      "address": "0xYourTokenAddress1",
+      "name": "Scai Token",
+      "symbol": "SCAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/assets/0xYourTokenAddress1.png"
+    },
+    {
+      "chainId": 34,
+      "address": "0xYourTokenAddress2",
+      "name": "Test Token",
+      "symbol": "TST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/assets/0xYourTokenAddress2.png"
+    }
+    // Add more tokens here as needed
+  ]
+}
